@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BlazorCrud/1.0.0": {
+        "runtime": {
+          "BlazorCrud.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorCrud/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
